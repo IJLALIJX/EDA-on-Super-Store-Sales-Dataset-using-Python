@@ -1,5 +1,5 @@
 
-# 📊 Exploratory Data Analysis (EDA) on Superstore Retail Dataset
+# 📊 Exploratory Data Analysis (EDA) on Superstore Retail Dataset & Visualization
 
 ## 📌 Project Overview
 This project performs **Exploratory Data Analysis (EDA)** on the Superstore Retail Dataset using Python.  
@@ -59,8 +59,25 @@ The dataset used in this project contains retail store sales data including:
 
 ---
 
-## 📸 Sample Visualizations
-(Add screenshots of your charts here)
+## Visualizations
+This project is called Super Store Sales Analysis, and it is an interactive Business Intelligence dashboard built to analyze overall sales performance.
+
+The main goal of the dashboard is to help decision-makers understand sales trends, customer behavior, product performance, and regional distribution.
+
+At the top, we can see the total sales KPI, which shows that the company generated 2.26 million in total sales during the selected time period.
+
+Looking at Sales by Segment, the Consumer segment generates the highest revenue, followed by Corporate, and then Home Office. This tells us that individual customers contribute the most to overall sales.
+
+In the Sales by Region pie chart, the West region has the largest share of sales, followed by East, Central, and South. This helps identify the strongest performing geographic area.
+
+The Sub-Category analysis shows that Phones and Chairs are the top-selling products, while items like Labels and Fasteners generate the least revenue. This insight can help with inventory and marketing strategies.
+
+When analyzing Sales by Ship Mode and Segment, we can see that Standard Class shipping is the most preferred method across all segments. Same Day shipping has the lowest usage.
+
+The dashboard also includes interactive filters such as Ship Date, Category, Year, and City. These slicers allow users to dynamically explore the data and gain deeper insights.
+
+Overall, this project demonstrates skills in data cleaning, modeling, DAX calculations, and interactive dashboard design using Power BI. It enables data-driven decision-making and helps identify growth opportunities.
+
 
 ---
 
